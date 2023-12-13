@@ -11,7 +11,7 @@ The project is setup as an Eclipse Java project. You should be able to clone the
 If you run it with no parameters it connects to the main Minima testnet.
 
 cd into the JAR folder and run as follows (also assigns max 1GB RAM to Minima):
-
+ xcz
 ```
 cd ./jar
 
