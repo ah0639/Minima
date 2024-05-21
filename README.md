@@ -6,12 +6,6 @@ Minima is a new blockchain with an emphasis on every user being able to run a fu
 ```
 cd ./jar
 
-java -Xmx1G -jar minima.jar
-```
-
-For a full list of parameters run :
-
-```
 java -Xmx1G -jar minima.jar -help
 ```
 
